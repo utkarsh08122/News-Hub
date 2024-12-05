@@ -1,1 +1,1 @@
-# News-Hub
+# NEWS
